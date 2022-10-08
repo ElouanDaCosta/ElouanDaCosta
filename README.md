@@ -12,6 +12,7 @@
 <hr/>
 
  👨🏻‍💻 About me: <br> My name is Elouan and i'm a web developer. I had finished program for Web Development by <a href="https://openclassrooms.com/fr/paths/556-developpeur-web">OpenClassrooms</a> .<br>
+ I'm currently studying at EPITECH in MSc pro at the Rennes campus
 In my free time, I love playing video game, listening to music, and i love plushes !
 
 <hr>
