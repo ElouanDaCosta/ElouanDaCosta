@@ -1,7 +1,7 @@
 ### Hello there ! 👋
 
 - 💻 I'm a Junior web developer
-- 🔭 I’m currently working with <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20" /> 
+- 🔭 I’m currently working with   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20" /> 
 - 🤔 I'm curious about programming and I have passion for innovation, gaming and music
 - 📫 How to reach me: 
 <div><a href="https://www.linkedin.com/in/elouan-da-costa-peixoto-1646bb229/">
