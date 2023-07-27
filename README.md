@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developper from France !</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on 10 cordes api<br><br>🌱 I’m currently learning Nestjs<br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me elouandacostapeixoto@gmail.com<br><br>⚡ Fun fact I love spider-man and plushes !
+🔭 I’m currently working on 10 cordes api<br><br>🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs" alt="Nestjs" width="20" height="20" /><br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me elouandacostapeixoto@gmail.com<br><br>⚡ Fun fact I love spider-man and plushes !
 
 
 ## 🌐 Socials:
