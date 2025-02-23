@@ -2,7 +2,9 @@
 <h3 align="center">A passionate developper from France !</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/ElouanDaCosta/LezGo">LezGo</a> and <a href="https://github.com/ElouanDaCosta/PeixotOS">PeixotOS</a> <br><br>🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="20" height="20" /> and <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="20" height="20" /><br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me elouandacostapeixoto@gmail.com<br><br>⚡ Fun fact I love spider-man and plushes!
+🔭 I’m currently working on <a href="https://github.com/ElouanDaCosta/LezGo">LezGo</a> and <a href="https://github.com/ElouanDaCosta/PeixotOS">PeixotOS</a> <br><br>
+👾 Some of my projects are on this  <a href="https://github.com/Lrn-projects">organization</a> <br><br>
+🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="20" height="20" /> and <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="20" height="20" /><br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me elouandacostapeixoto@gmail.com<br><br>⚡ Fun fact I love spider-man and plushes!
 
 
 ## 🌐 Socials:
