@@ -17,8 +17,8 @@
 [![wakatime](https://wakatime.com/badge/user/acd700fc-2cab-413c-ab50-58a49d0e24dc.svg)](https://wakatime.com/@acd700fc-2cab-413c-ab50-58a49d0e24dc)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ElouanDaCosta&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ElouanDaCosta&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LuernOutOfOrder&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuernOutOfOrder&theme=midnight-purple&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElouanDaCosta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
